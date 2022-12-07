@@ -1,0 +1,5 @@
+flask==2.2.2
+flask-cors
+scikit-learn
+scipy
+python_speech_features
